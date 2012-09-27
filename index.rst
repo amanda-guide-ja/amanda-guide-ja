@@ -14,6 +14,7 @@ Contents:
    about/about_amanda
    about/words
    install/install_on_centos6
+   setup/setup_server
 
 Indices and tables
 ==================
