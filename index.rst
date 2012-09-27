@@ -11,7 +11,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-
+   about/about_amanda
+   about/words
+   install/install_on_centos6
 
 Indices and tables
 ==================
