@@ -17,9 +17,6 @@ Contents:
    setup/setup_server
    setup/amanda_conf
 
-   setup/dumptype
-
-   about/words
 
 Indices and tables
 ==================
