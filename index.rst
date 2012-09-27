@@ -15,6 +15,11 @@ Contents:
    about/words
    install/install_on_centos6
    setup/setup_server
+   setup/amanda_conf
+
+   setup/dumptype
+
+   about/words
 
 Indices and tables
 ==================

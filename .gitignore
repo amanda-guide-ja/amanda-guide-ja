@@ -3,3 +3,5 @@ _build/*
 *.swp
 
 *.rst~
+
+.DS_Store
